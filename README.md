@@ -1,2 +1,2 @@
 # Attendance-Monitoring-System
-Final Project code
+ITE 260/ITE 366
